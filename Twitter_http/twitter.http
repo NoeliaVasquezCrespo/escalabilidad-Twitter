@@ -1,0 +1,46 @@
+### Listar todos los usuarios
+GET http://localhost:3000/user
+Content-Type: application/json
+
+### Listar información de un usuario por username
+GET http://localhost:3000/user/username/@kudai
+Content-Type: application/json
+
+### Agregar usuario
+POST http://localhost:3000/user
+Content-Type: application/json
+
+{
+    "username":"@kudai",
+    "full_name":"kudai",
+    "user_description": "#Kudai2022" 
+    
+}
+
+### Mostrar lista de tweets de un usuario
+GET http://localhost:3000/tweet/username/@Noly_vasquez
+Content-Type: application/json
+
+### Agregar tweet
+POST http://localhost:3000/tweet
+Content-Type: application/json
+
+{
+    "user_id":"3",
+    "text_tweet":"Hollow Knight: En poco tiempo, dejas una gran huella en las personas que te conocen"
+    
+}
+
+### Agregar follow
+POST http://localhost:3000/follow
+Content-Type: application/json
+
+{
+    "follower_id":"5",
+    "followee_id":"3"
+    
+}
+
+### Mostrar timeline de una persona
+GET http://localhost:3000/follow/username/@ShawnMendes
+Content-Type: application/json

@@ -1,0 +1,25 @@
+###---------------------------Users--------------------------###
+
+### Listar todos los usuarios
+GET http://localhost:3000/user
+Content-Type: application/json
+
+### Mostrar información de un usuario
+GET http://localhost:3000/user/2
+Content-Type: application/json
+
+### Listar información de un usuario por username
+GET http://localhost:3000/user/username/@Adele
+Content-Type: application/json
+
+### Agregar usuario
+POST http://localhost:3000/user
+Content-Type: application/json
+
+{
+    "username":"@CNNEE",
+    "full_name":"CNN en Español",
+    "user_description": "Cubrimos las noticias de América Latina y el resto del mundo. Vive la noticia." 
+    
+}
+

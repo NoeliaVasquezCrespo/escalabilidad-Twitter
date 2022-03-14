@@ -1,0 +1,51 @@
+    "username":"@Noly_vasquez",
+    "full_name":"Noelia Vasquez Crespo",
+    "user_description": "See the world not as as it is, but as it should be"
+
+
+    "username":"@Ary_vascres",
+    "full_name":"Ariney Vasquez Crespo",
+    "user_description": "Enjoy every moment" 
+
+    
+    "username":"@Twitch_Es",
+    "full_name":"Twitch_Es",
+    "user_description": "Cuenta oficial de Twitch España" 
+
+
+    "username":"@simpleplan",
+    "full_name":"Simple Plan",
+    "user_description": "#RuinMyLife feat. Deryck Whibley of @Sum41 is out now! "
+
+
+    "username":"@ShawnMendes",
+    "full_name":"Shawn Mendes",
+    "user_description": " "  
+
+    "username": "@edsheeran",
+    "full_name": "Ed Sheeran",
+    "user_description": "It's finally here. The Joker And The Queen (feat @taylorswift13) is out now"
+
+
+    "username": "@Adele",
+    "full_name": "Adele",
+    "user_description": "adele.com"
+
+
+    "username": "@PSchwarzenegger",
+    "full_name": "Patrick Shriver",
+    "user_description": "Laker fan"
+
+    "username": "@taylorswift13",
+    "full_name": "Taylor Swift",
+    "user_description": "Happy, free, confused and lonely at the same time. Red (Taylor’s Version) out now"
+
+    "username": "@kudai",
+    "full_name": "kudai",
+    "user_description": "#Kudai2022"
+
+    
+    "username":"@CNNEE",
+    "full_name":"CNN en Español",
+    "user_description": "Cubrimos las noticias de América Latina y el resto del mundo. Vive la noticia." 
+ 

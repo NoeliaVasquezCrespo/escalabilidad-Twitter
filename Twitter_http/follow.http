@@ -1,0 +1,29 @@
+###---------------------------Follow--------------------------###
+select u.username, t.text_tweet, u.user_id, f.followee_id, t.user_id, f.follower_id
+from post_tweet t
+left join user u on (u.user_id = t.user_id)
+left join follow f on (f.followee_id = u.user_id)
+where f.follower_id = "5"
+
+### Listar todos los follows
+GET http://localhost:3000/follow
+Content-Type: application/json
+
+### Mostrar lista de todas las personas que sigue
+GET http://localhost:3000/follow/5
+Content-Type: application/json
+
+### Mostrar timeline de una persona
+GET http://localhost:3000/follow/username/@kudai
+Content-Type: application/json
+
+### Agregar follow
+POST http://localhost:3000/follow
+Content-Type: application/json
+
+{
+    "follower_id":"11",
+    "followee_id":"4"
+    
+}
+

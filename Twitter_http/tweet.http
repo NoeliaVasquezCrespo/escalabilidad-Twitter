@@ -1,0 +1,25 @@
+###---------------------------Tweet--------------------------###
+
+### Listar todos los tweets
+GET http://localhost:3000/tweet
+Content-Type: application/json
+
+### Mostrar lista de tweets de un usuario por ID
+GET http://localhost:3000/tweet/11
+Content-Type: application/json
+
+
+### Mostrar lista de tweets de un usuario
+GET http://localhost:3000/tweet/username/@Ary_vascres
+Content-Type: application/json
+
+### Agregar tweet
+POST http://localhost:3000/tweet
+Content-Type: application/json
+
+{
+    "user_id":"3",
+    "text_tweet":"Hollow Knight: En poco tiempo, dejas una gran huella en las personas que te conocen"
+    
+}
+

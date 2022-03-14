@@ -1,0 +1,46 @@
+    "user_id": 1,
+    "text_tweet": "It takes a lot of bravery to look around you and see the world not as as it is, but as it should be"
+  
+    "user_id": 1, 
+    "text_tweet": "Being part of something special makes you special"
+  
+
+    "user_id": 1,
+    "text_tweet": "Being part of something special doesn't make you special. Something is special because you are part of it"
+   
+    "user_id": 2,
+    "text_tweet": "Disfruta cada momento de tu vida"
+
+    "user_id": 2,
+    "text_tweet": "Never stop dreaming"
+
+    "user_id": 5,
+    "text_tweet": "I'm so sorry I won't be able to see you guys sooner. We unfortunately were forced to move the UK/EU tour dates to 2023 due to the pandemic"
+   
+
+    "user_id": 7,
+    "text_tweet": "Thank you to everyone who was there in the crowd, you were so loud and loving!"
+  
+  
+    "user_id": 7,
+    "text_tweet": "Hiya, so I’m really happy to say that I am performing at the Brits next week!!"
+  
+  
+    "user_id": 6,
+    "text_tweet": "The official lyric video for 'Bam Bam' is out now"
+  
+  
+    "user_id": 6,
+    "text_tweet": "The joker and queen featuring @taylorswift13 is out right now"
+  
+ 
+    "user_id": 6,
+    "text_tweet": "Singin' in the rain"
+  
+  
+    "user_id": 6,
+    "text_tweet": "Another incredible performance of 'Overpass Graffiti'"
+  
+
+    "user_id": 3,
+    "text_tweet": "Hollow Knight: En poco tiempo, dejas una gran huella en las personas que te conocen"
